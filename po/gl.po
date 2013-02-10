@@ -395,7 +395,7 @@ msgid "Live System (GNOME)"
 msgstr "Sistema en vivo (GNOME)"
 
 #. txt_start
-msgid "Start Chakra Live"
+msgid "Start Manjaro Linux"
 msgstr "Iniciar Chakra en vivo"
 
 #. txt_nonfree

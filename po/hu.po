@@ -400,7 +400,7 @@ msgid "Live System (GNOME)"
 msgstr "Live rendszer (GNOME)"
 
 #. txt_start
-msgid "Start Chakra Live"
+msgid "Start Manjaro Linux"
 msgstr "Elindítás"
 
 #. txt_nonfree

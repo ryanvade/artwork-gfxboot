@@ -396,8 +396,8 @@ msgid "Live System (GNOME)"
 msgstr "Sistema Live (GNOME)"
 
 #. txt_start
-msgid "Start Chakra Live"
-msgstr "Avvia Chakra Live"
+msgid "Start Manjaro Linux"
+msgstr "Avvia Manjaro Linux"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
