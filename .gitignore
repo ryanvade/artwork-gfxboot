@@ -1,0 +1,10 @@
+isolinux
+*.tr
+*.hlp
+.directory
+.gitignore
+.ready
+main.bin
+main.log
+po/text.inc
+*~
