@@ -398,7 +398,7 @@ msgstr "Ζωντανό Σύστημα (GNOME)"
 
 #. txt_start
 msgid "Start Manjaro Linux"
-msgstr "Εκκίνηση Ζωντανού Συστήματος Chakra"
+msgstr "Εκκίνηση Ζωντανού Συστήματος Manjaro Linux"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
