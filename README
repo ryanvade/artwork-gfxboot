@@ -20,7 +20,7 @@ First you need to make sure you have CPIO and GFXBOOT installed
 
 Run 'make' for creating the theme,
 this will generate a folder called 'isolinux', just copy the folder into 
-the Chakra Live profile, inside boot-files, replacing completelly 
+the Manjaro Live profile, inside boot-files, replacing completelly 
 the folder 'isolinux' and all it's contents.
 
 Run 'make clean' for cleanning completelly the build
@@ -43,7 +43,7 @@ backXXXxXXX.jpg backgrounds for several resolutions
 
 *.c32 *.cat *.bin memtest: those are binary modules. It is recommended to update the modules
 time to time from your syslinux local package but ensuring it still works. The provided
-isolinux.bin and gfxboot.c32 are special versions for CHakra,  so it is not recommended to 
+isolinux.bin and gfxboot.c32 are special versions for Manjaro,  so it is not recommended to 
 change those, else you may loose some features.
 
 isolinux.cfg: This is the master config file for the menu entries. Any option after "showopts" is 
@@ -102,9 +102,6 @@ for each release, this folder will show the theme used for this branch.
 SCRIPTS FOLDER: This folder cointains any special script used during the bootup for catching the 
 parameters passed by GFXBoot to the kernel, it is here just for referece so in case a theme need 
 some special tweaking.
-
-locale_setup.sh: Should be used in chakra-init-live, for setting the vconsole keymap, the 
-locale and the keyboard layout for 10-keyboard.conf
 
 ----------------
 
