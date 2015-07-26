@@ -1,5 +1,5 @@
 
-Welcome to %DIST_NAME% Linux !
+Welcome to %DIST_NAME%  !
 
 To start the system enter 'start and press <return>
 
