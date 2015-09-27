@@ -387,11 +387,11 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Manjaro Linux"
+msgid "Start Oz Unity Emerald"
 msgstr ""
 
 #. txt_nonfree
-msgid "Start (non-free drivers)"
+msgid "Start (With Proprietary Graphics and Wireless drivers)"
 msgstr ""
 
 #. txt_hdt
